@@ -10,8 +10,24 @@ The primary technology associated with this analysis is Tableau for presenting v
 There are five primary visualizations generated for this data.
 
 ### Checkout Times for All Users
-
+The following link is to the visualization that indicates the hour of the day and how many bikes are checked out and for what duration they are checked out:
 [Checkout Times for All Users](https://public.tableau.com/views/NYCCitiBikeAnalysisChallenge/CheckoutTimesforUsers?:language=en&:display_count=y&:origin=viz_share_link)
+
+### Checkout Times for All Users, Segregated by Gender
+The following link is to the visualization that indicates the same data as the previous link, except with this visualization, the data is segregated by gender:
+[Checkout Times by Gender](https://public.tableau.com/views/NYCCitiBikeAnalysisChallenge/CheckoutTimesbyGender?:language=en&:display_count=y&:origin=viz_share_link)
+
+### Trips by Weekday for Each Hour
+
+[Trips by Weekday for Each Hour](https://public.tableau.com/views/NYCCitiBikeAnalysisChallenge/TripsbyWeekdayforEachHour?:language=en&:display_count=y&:origin=viz_share_link)
+
+### Trips by Weekday for Each Hour by Gender
+
+[Trips by Weekday for Each Hour by Gender](https://public.tableau.com/views/NYCCitiBikeAnalysisChallenge/TripsbyGender?:language=en&:display_count=y&:origin=viz_share_link)
+
+### User Trips by Gender by Weekday by Subscriber vs Ad Hoc Customers
+
+[User Trips by Gender by Weekday by Subscriber vs Ad Hoc Customers](https://public.tableau.com/views/NYCCitiBikeAnalysisChallenge/UserTripsbyGenderbyWeekday?:language=en&:display_count=y&:origin=viz_share_link)
 
 ## Summary: 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
